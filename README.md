@@ -10,4 +10,10 @@
 
 以下のフォームからお店のデータを送信することができます。
 
+<<<<<<< HEAD
 https://docs.google.com/forms/d/e/1FAIpQLSf6L_YXh4NzIEFKep1TVJ50hPk2_oOELYtc9MIXyeBsVeBnQA/viewform?usp=sf_link
+=======
+以下のページを御覧ください。
+
+[地元のイエメシアプリをつくろう](https://iemeshi.jp/develop.html)
+>>>>>>> upstream/master
